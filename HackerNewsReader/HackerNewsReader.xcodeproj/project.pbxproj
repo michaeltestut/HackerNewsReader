@@ -14,6 +14,7 @@
 		E504B2E32988EC7800FE55C1 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E504B2E22988EC7700FE55C1 /* NetworkManager.swift */; };
 		E504B2E52988EDB500FE55C1 /* PostData.swift in Sources */ = {isa = PBXBuildFile; fileRef = E504B2E42988EDB500FE55C1 /* PostData.swift */; };
 		E504B2E8298A3F1A00FE55C1 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E504B2E7298A3F1A00FE55C1 /* DetailView.swift */; };
+		E527BE4D298F34E10095A50C /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E527BE4C298F34E10095A50C /* WebView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		E504B2E22988EC7700FE55C1 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		E504B2E42988EDB500FE55C1 /* PostData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostData.swift; sourceTree = "<group>"; };
 		E504B2E7298A3F1A00FE55C1 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		E527BE4C298F34E10095A50C /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 			children = (
 				E504B2D52988934900FE55C1 /* ContentView.swift */,
 				E504B2E7298A3F1A00FE55C1 /* DetailView.swift */,
+				E527BE4C298F34E10095A50C /* WebView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 				E504B2E32988EC7800FE55C1 /* NetworkManager.swift in Sources */,
 				E504B2E52988EDB500FE55C1 /* PostData.swift in Sources */,
 				E504B2D62988934900FE55C1 /* ContentView.swift in Sources */,
+				E527BE4D298F34E10095A50C /* WebView.swift in Sources */,
 				E504B2E8298A3F1A00FE55C1 /* DetailView.swift in Sources */,
 				E504B2D42988934900FE55C1 /* HackerNewsReaderApp.swift in Sources */,
 			);
